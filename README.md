@@ -176,6 +176,7 @@ modos de falla, y compárelo con la salida correcta:
 7.Reduzca el circuito de la figura 16-57 a una sola resistencia e inductancia en serie.
 
 ![image](https://user-images.githubusercontent.com/94098157/154709664-e4903aba-036c-4751-8ad9-cc99040b9bfa.png)
+
 ![image](https://user-images.githubusercontent.com/94098157/154716297-37ea8558-0832-4e66-b5c7-86dde8c16661.png)
 ![image](https://user-images.githubusercontent.com/94098157/154716493-a722438a-2892-49e0-b53b-147e739e285c.png)
 
