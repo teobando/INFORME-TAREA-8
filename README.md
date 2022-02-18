@@ -12,6 +12,18 @@
 
 **NRC:** 10133
 
+**1. OBJETIVOS**
+
+*1.1 Objetivo General:* 
+
+Entender de forma precisa los conceptos básicos en lo que se refiere a circuitos RC y RL  mediante una lectura profunda del texto guía para aplicar en los ejercicios propuestos de cada capítulo.
+
+*1.2 Objetivos Especificos*
+
+1. Comprender la teoría de circuitos RC y RL para mantener una idea clara de loq ue trata. 
+2. Resumir mediante mapas conceptuales todos conceptos que se abordan a lo que se refiere a circuitos RC y RL.
+3. Aplicar la teoría en los ejercicios Propuestos.
+
 **2.MARCO TEORICO(RESUMEN)**
 
 ![image](https://user-images.githubusercontent.com/94098157/154718923-5ae9de6b-871c-4c13-ada4-ae6c4d092eca.png)
@@ -730,6 +742,11 @@ Jefferson (19)
 https://www.youtube.com/watch?v=Q6MCoqsIAhE
 
 **4.CONCLUSIONES**
+
+1. Comprender la teoría es la base para aplicar los conceptos en la resolución de problemas, especialmente en el comportamiento de los circuitos RC y RL
+2. Los conceptos circuitos RC y RL ayuda a comprender su funcionamiento y el rol que cumplen en un circuito eléctrico cerrado. 
+3. La resolución de todos los problemas propuestos nos permiten entender de forma clara los funcionamientos circuitos RC y RL e identificar la diferencia entre ellos 
+4. Así mismo comprender el papel que tienen los transformadores en un circuito. 
 
 **5.BIBLIOGRAFÍA**
 
