@@ -745,8 +745,7 @@ https://www.youtube.com/watch?v=Q6MCoqsIAhE
 
 1. Comprender la teoría es la base para aplicar los conceptos en la resolución de problemas, especialmente en el comportamiento de los circuitos RC y RL
 2. Los conceptos circuitos RC y RL ayuda a comprender su funcionamiento y el rol que cumplen en un circuito eléctrico cerrado. 
-3. La resolución de todos los problemas propuestos nos permiten entender de forma clara los funcionamientos circuitos RC y RL e identificar la diferencia entre ellos 
-4. Así mismo comprender el papel que tienen los transformadores en un circuito. 
+3. La resolución de todos los problemas propuestos nos permitio entender de forma clara los funcionamientos circuitos RC y RL e identificar la diferencia entre ellos  
 
 **5.BIBLIOGRAFÍA**
 
