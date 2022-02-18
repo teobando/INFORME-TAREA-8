@@ -1,5 +1,18 @@
 # INFORME TAREA 8
 
+**UNIVERSIDAD DE LAS FUERZAS ARMADAS**
+
+**DEPARTAMENTO DE ELECTRICA Y ELECTRÓNICA**
+
+**FUNDAMENTOS DE CIRCUITOS ELECTRICOS**
+
+**Nombres:** Martin Coronel, Jefferson Chicaiza, Tito Obando 
+
+**Carrera:** Electrónica y Automatización 
+
+**NRC:** 10133
+
+
 ***CAPITULO N° 15***
 
 Martin (19)
