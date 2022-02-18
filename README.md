@@ -14,6 +14,10 @@
 
 **2.MARCO TEORICO(RESUMEN)**
 
+![image](https://user-images.githubusercontent.com/94098157/154718923-5ae9de6b-871c-4c13-ada4-ae6c4d092eca.png)
+
+![image](https://user-images.githubusercontent.com/94098157/154718959-15d15c8f-301c-4718-bcea-67a9151fd265.png)
+
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 ***CAPITULO N° 15***
