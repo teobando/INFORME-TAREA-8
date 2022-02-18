@@ -12,6 +12,9 @@
 
 **NRC:** 10133
 
+**2.MARCO TEORICO(RESUMEN)**
+
+**3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 ***CAPITULO N° 15***
 
@@ -181,3 +184,13 @@ modos de falla, y compárelo con la salida correcta:
 ![image](https://user-images.githubusercontent.com/94098157/154716493-a722438a-2892-49e0-b53b-147e739e285c.png)
 
 Jefferson (19)
+
+**3.VIDEO**
+
+https://www.youtube.com/watch?v=Q6MCoqsIAhE
+
+**4.CONCLUSIONES**
+
+**5.BIBLIOGRAFÍA**
+
+Floyd, T. (2007). *Principios de circuitos electricos* (Ed. 8va). Pearson EDUCATION.
