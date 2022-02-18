@@ -615,7 +615,87 @@ modos de falla, y compárelo con la salida correcta:
 ![image](https://user-images.githubusercontent.com/94098157/154716297-37ea8558-0832-4e66-b5c7-86dde8c16661.png)
 ![image](https://user-images.githubusercontent.com/94098157/154716493-a722438a-2892-49e0-b53b-147e739e285c.png)
 
-Jefferson (19)
+9. Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de la figura 16-57.
+
+![image](https://user-images.githubusercontent.com/84757114/154706741-124b3309-306e-4f88-a4a3-d35d53873323.png)
+
+
+11. Calcule la corriente total en cada circuito de la figura 16-55 y exprésela en forma polar.
+
+![image](https://user-images.githubusercontent.com/84757114/154706809-8af11933-7d8d-44ad-b760-236264eab654.png)
+
+13. Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye u?
+
+![image](https://user-images.githubusercontent.com/84757114/154706962-daee70e0-0641-42bf-9e23-6a30c3a8f741.png)
+
+
+15. Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias:  500 Hz 
+
+![image](https://user-images.githubusercontent.com/84757114/154707070-55125e57-3f1a-462b-b915-4ef35a557c58.png)
+
+17. Para el circuito de retraso de la figura 16-61, determine el retraso de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias: (a) 1 Hz (b) 100 Hz
+
+![image](https://user-images.githubusercontent.com/84757114/154707215-0f01fa55-c572-4289-b6fe-686960a11697.png)
+
+
+19. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?
+
+![image](https://user-images.githubusercontent.com/84757114/154707238-55aff92b-2518-4291-a0d5-285ade5c9b7c.png)
+
+21. ¿A qué frecuencia XL es igual a R en la figura 16-63?
+
+![image](https://user-images.githubusercontent.com/84757114/154707341-ac908a09-b5a1-4575-925f-fa1cd02f41a9.png)
+
+23. Determine las siguientes cantidades en la figura 16-65:
+
+![image](https://user-images.githubusercontent.com/84757114/154707418-b894c9da-c946-4d94-aab8-9794e7022193.png)
+
+
+25. Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie.
+
+![image](https://user-images.githubusercontent.com/84757114/154707536-f1ed5c63-df9a-4713-af4c-d95420cc659c.png)
+
+27. Determine los voltajes en forma polar a través de cada uno de los elementos de la figura 16-68. Trace el diagrama fasorial de voltaje.
+
+![image](https://user-images.githubusercontent.com/84757114/154707640-48952c62-4b94-403a-a09b-0c770ba8ced3.png) 
+
+29. Determine la corriente en cada rama y la corriente total en la figura 16-68. Expréselas en forma polar. Trace el diagrama fasorial de la corriente.
+ 
+![image](https://user-images.githubusercontent.com/84757114/154707906-88315cbd-3a56-43ca-b424-dbc2aa482b58.png)
+
+31. Para el circuito de la figura 16-70, determine lo siguiente: 
+ 
+![image](https://user-images.githubusercontent.com/84757114/154708170-e084a2c7-4a04-42fc-9db7-71e797ca1f79.png)
+
+33. Determine el desplazamiento de fase y la atenuación (relación de Vsa l a Ven t) desde la entrada hasta la salida en el circuito de la figura 16-71.
+
+![image](https://user-images.githubusercontent.com/84757114/154708402-7adc5889-36ba-4a62-80f1-36ec1737c7b6.png) 
+
+35. En cierto circuito RL, la potencia verdadera es de 100 m W, y la potencia reactiva de 340 m VAR. ¿Cuál es la potencia aparente?
+
+![image](https://user-images.githubusercontent.com/84757114/154708512-1ae5c996-53b7-4a98-80b5-7b77401c5b0f.png)
+
+
+37. Determine la potencia verdadera y la potencia reactiva en la figura 16-58.
+
+![image](https://user-images.githubusercontent.com/84757114/154708598-a8345679-38c4-455d-9711-b20c009c3834.png)
+
+39. Determine P, Q, S y FP para el circuito de la figura 16-69. Trace el triángulo de potencia.
+
+![image](https://user-images.githubusercontent.com/84757114/154708733-7865c559-a85f-4353-b13f-ec82287d94b8.png)
+    
+41. Trace la curva de respuesta para el circuito de la figura 16-61. Muestre el voltaje de salida contra la frecuencia en incrementos de 1 kHz desde 0 Hz hasta 5 kHz.
+
+![image](https://user-images.githubusercontent.com/84757114/154708773-8f9c03ca-705c-42c8-9d48-1d916417b6dc.png)
+
+
+43. Trace el diagrama fasorial de voltaje para cada circuito de las figuras 16-61 y 16-62 a una frecuencia de 8 kHz.
+
+![image](https://user-images.githubusercontent.com/84757114/154708820-fa4a7069-652a-45cf-b9da-4fb979df921d.png)
+
+45. Determine el voltaje de salida en la figura 16-73 para cada uno de los siguientes modos de falla: (a) L1 abierto (b) L2 abierto (c) R1 abierto (d) un cortocircuito a través de R2.
+
+![image](https://user-images.githubusercontent.com/84757114/154708935-ad730731-eeb7-44b6-a00c-623f6a396017.png)
 
 **3.VIDEO**
 
