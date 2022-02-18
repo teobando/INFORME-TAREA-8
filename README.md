@@ -56,12 +56,22 @@ a) Z  b)   c) IR   d) Itot   e) ɵ
 49.Determine los voltajes en forma polar a través de cada elemento de la figura 15-100. Trace el diagrama fasorial de voltaje.
 
 ![image](https://user-images.githubusercontent.com/94098157/154611241-85b05225-9bf6-4475-9530-1d53e5dae2ad.png)
+![image](https://user-images.githubusercontent.com/94098157/154620065-0225a581-1538-4ce4-8eff-686220f46004.png)
+![image](https://user-images.githubusercontent.com/94098157/154620229-b4eee5f1-1ee0-4796-809a-ccbb4d1fcfc3.png)
+![image](https://user-images.githubusercontent.com/94098157/154620327-bfab34ae-bd10-4518-acbd-448ae9d24143.png)
+![image](https://user-images.githubusercontent.com/94098157/154620363-faae06a2-2c4d-4c98-879b-19bf6bd92d8f.png)
+![image](https://user-images.githubusercontent.com/94098157/154620493-ba0c8fd7-4392-4a0b-9d37-8d57e3dd19fa.png)
+
 
 51.Encuentre la corriente a través de cada rama y la corriente total en la figura 15-100. Exprese las corrientes en forma polar. Trace el diagrama fasorial de corriente.
 
 ![image](https://user-images.githubusercontent.com/94098157/154611295-986fa6ff-ddb3-4687-92f2-4ce94c9cc442.png)
 
-53.Determine el valor de C2 en la figura 15-102 cuando VA = VB. I u VR1 VR2 VR3 V
+![image](https://user-images.githubusercontent.com/94098157/154623558-08076dd2-6b8a-4d4f-9dbf-9ad829fbee25.png)
+![image](https://user-images.githubusercontent.com/94098157/154623618-d55f3cf8-740b-4328-9d71-046241955281.png)
+![image](https://user-images.githubusercontent.com/94098157/154623647-0eb75a52-a9d4-42e6-af31-309d43be6b42.png)
+
+53.Determine el valor de C2 en la figura 15-102 cuando VA = VB. I u VR1 VR2 VR3 
 
 ![image](https://user-images.githubusercontent.com/94098157/154611457-f442007f-7893-4e77-834f-b7fa836c7c11.png)
 
@@ -71,9 +81,13 @@ a) Z  b)   c) IR   d) Itot   e) ɵ
 
 57.En un circuito RC en serie, la potencia real es de 2 Wy la potencia reactiva de 3.5 VAR. Determine la potencia aparente
 
+![image](https://user-images.githubusercontent.com/94098157/154624342-6b30d454-4e9d-4aa3-bfe5-bdd7da5b2352.png)
+
 59.¿Cuál es el factor de potencia para el circuito de la figura 15-98?
 
 ![image](https://user-images.githubusercontent.com/94098157/154611573-709fbe4a-65b8-43aa-ba84-e05f48b4ccc3.png)
+
+
 
 61.Una sola fuente de 240 V y 60 Hz alimenta dos cargas. La carga A tiene impedancia de 50 Ω y factor de potencia de 0.85. La carga B tiene impedancia de 72 Ω y factor de potencia de 0.95.
 
