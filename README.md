@@ -23,7 +23,420 @@
 ***CAPITULO N° 15***
 
 Martin (19)
+El sistema de los números complejos 
 
+1. ¿Cuáles son las dos características de una cantidad indicada mediante un número complejo?
+
+Las características de una cantidad en un numero complejo es la magnitud y el ángulo.
+
+3. Localice los puntos representados por cada una de las siguientes coordenadas en el plano complejo: 
+
+(a) 3, j5 		(b)-7,  j1 		(c) -10, -j10
+
+![image](https://user-images.githubusercontent.com/94182617/154717410-55c485f2-4611-4b3c-8c28-2996f40688fd.png)
+
+
+5. Determine las coordenadas de cada punto que tenga igual magnitud, pero esté localizado a 90° de los puntos del problema 3.
+
+(a) 3, j5 		(b) j1 		(c) -10, -j10
+
+(a) -5, +j3 y 5, -j3
+
+(b) -1, -j7 y 1, + j7
+
+(c) -10, +j10 y 10, -j10
+
+7. ¿Cuál es el valor de la hipotenusa de un triángulo rectángulo cuyos lados son 10 y 15?
+
+C = raiz(A^2 + B^2)
+
+C= raiz(10^2 + 15^2)
+
+C= raiz(100+225)
+
+C= raiz(325)
+
+C= 18.03
+
+9. Convierta cada uno de los siguientes números polares a forma rectangular: 
+
+(a) 1000∠ -50° 		(b)15∠160° 	(c)25∠ -135°	 (d)3∠180°
+
+A = C cos (t)
+
+B = C sen (t)
+
+(a) 
+
+A = 1000 Cos(-50)
+
+A= 643
+
+jB = j1000 Sen(-50)
+
+jB = -j766
+
+A + jB = 643 – j766
+
+(b)
+
+A = 15 Cos(160)
+
+A = -14
+
+jB = j15 Sen(160)
+
+jB = j5.13
+
+A + jB = -14 + j5.13
+
+(c)
+
+A = 25 Cos(-135)
+
+A = -17.7
+
+jB = j25 Sen(-135)
+
+jB = -j17.7
+
+A + jB = -17.7 - j17.7
+
+(d)
+
+A = 3 Cos(180)
+
+A = -3
+
+jB = j3 Sen(180)
+
+jB = j0
+
+A + jB = -3 + j0
+
+
+11. Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 8.
+
+(a)40 - j40	 (b)50 - j200	 (c)35 - j20	 (d)98 + j45
+
+(a) Cuarto
+
+(b) Cuarto
+
+(c) Cuarto
+
+(d) Primero
+
+13. Escriba las expresiones polares utilizando ángulos positivos para cada uno de los fasores de la figura.
+
+![image](https://user-images.githubusercontent.com/94182617/154717627-d35c451c-090a-4371-a165-09f8d61d40ca.png)
+
+(a) 12∠115°
+
+(b) 20∠230°
+
+(c) 100∠190°
+
+(d) 50∠160°
+
+15.Realice las siguientes sustracciones:
+
+(a)( 2.5 + j1.2) - (1.4 + j0.5)	(b)( -45 - j23) - (36 + j12)	(c)( 8 - j4) - 3∠25°	(d)48∠135° - 33∠ -60°
+
+(a) (2.5 – 1.4) + j(1.2 – 0.5) = 1.1 + j0.7
+
+(b) (-45 -36) + j(-23 -12) = -81 - j35
+
+(c) 
+
+3∠25°
+
+A = 3 Cos(25) = 2.72
+
+B = 3 Sen(25) = 1.27
+
+C = 2.72 + j1.27
+
+(8 -2.72) + j(-4 -1.27) = 5.28 – j5.27
+
+(d)
+
+48∠135°
+
+A = 48 Cos(135) = -33.94
+
+B = 48 Sen(135) = 33.94
+
+C = -33.94 + j33.94
+
+33∠ -60°
+A = 33 Cos(-60) = 16.5
+B = 33 Sen(-60) = -28.58
+C = 16.5 – j28.58
+
+(-33.94 -16.5) + j(33.94 + 28.58) = -50.44 + j62.52
+
+17. Realice las siguientes divisiones:
+
+![image](https://user-images.githubusercontent.com/94182617/154717756-2063ccbf-d2b0-40fb-8585-008a54e3e632.png)
+
+(a) (8/2.5) ∠ (50 – 39) = 3.2 ∠ 11°
+
+(b) (63/9) ∠ (-91 – 10) = 7 ∠ -101°
+
+(c) 
+
+14 – j12
+
+C = raiz(14^2 + 12^2) = 18.44
+
+t = Tan -1(-12/14) = -40.6°
+
+C∠ = 18.44 ∠ -40.6°
+
+(28/18.44) ∠ (30 – (-40.6)) = 1.52 ∠ 70.6°
+
+(d) (40 – j30)(16 – j8)/(16 + j8)(16 – j8) = (640 - 320j – 480j - 240)/(256+64) = (400 -800j)/320 
+= 1.25 – j2.5
+
+C = raíz(1.25^2 + 2.5^2) = 2.79
+
+t = Tan -1(-2.5/1.25) = -63.43°
+
+C∠ = 2.79 ∠ -63.43°
+
+
+Respuesta sinusoidal de circuitos RC en serie
+
+19. Se aplica un voltaje sinusoidal a 8 kHz a un circuito RC en serie. ¿Cuál es la frecuencia del voltaje a través del resistor? ¿A través del capacitor?
+
+A través del resistor: 8 kHz
+
+A través del capacitor: 8 kHz
+
+Impedancia de circuitos RC en serie
+
+21. Exprese la impedancia total de cada circuito mostrado en la figura tanto en forma polar como rectangular.
+
+![image](https://user-images.githubusercontent.com/94182617/154717886-b6f55549-fdc3-4b97-8195-9ed165e334d9.png)
+
+Forma rectangular: Z = R - jXc
+
+Forma polar: Z = raíz(R^2 + Xc^2) ∠ -tan-1 (Xc/R)
+
+(a)
+
+Forma rectangular: Z = R – jXc = 270ohm – j100ohm
+
+Forma polar: Z = raíz(R^2 + Xc^2) ∠ -tan-1 (Xc/R) = raíz(270^2 + 100^2) ∠ -tan-1 (100/270) =
+= 288 ∠ -20.3°ohm
+
+(b)
+
+Forma rectangular: Z = R – jXc = 680ohm – j1kohm
+
+Forma polar: Z = raíz(R^2 + Xc^2) ∠ -tan-1 (Xc/R) = raíz(680^2 + 1000^2) ∠ -tan-1 (1000/680) =
+= 1.21 ∠ -55.8°kohm
+
+23. Para el circuito de la figura, determine la impedancia expresada en forma rectangular para cada una de las siguientes frecuencias:
+
+(a) 100 Hz 	(b) 500 Hz 	(c) 1 kHz 	(d) 2.5 kHz
+
+![image](https://user-images.githubusercontent.com/94182617/154718030-c0c5280a-2d55-4f33-828e-6f86f4b74ed8.png)
+
+Z = R – jXc
+
+Xc = 1/2pifC
+
+(a)
+
+Xc = 1/2pi(100)(0.0022) = 723 kohm
+
+Z = 56 kohm - j723 kohm
+
+(b)
+
+Xc = 1/2pi(500)(0.0022) = 145kohm
+
+Z = 56 kohm - j145 kohm
+
+(c)
+
+Xc = 1/2pi(1000)(0.0022) = 72.3kohm
+
+Z = 56 kohm - j72.3 kohm
+
+(d)
+
+Xc = 1/2pi(2500)(0.0022) = 28.9 kohm
+
+Z = 56 kohm - j28.9 kohm
+
+25. Determine los valores de R y XC en un circuito RC en serie para los siguientes valores de impedancia total:
+
+(a) Z= 33 ohm - j50 ohm		(b)Z=300∠ -25°ohm		(c)Z= 1.8∠ -67.2° kohm		(d)Z= 789∠ -45° ohm
+
+(a) R = 33 ohm, Xc = 50 ohm
+
+(b) 
+
+A = 300 Cos(-25) = 272
+
+B = 300 Sen(-25) = -127
+
+R = 272 ohm, Xc = 127 ohm
+
+(c)
+
+A = 1.8 Cos(-67.2) = -0.698
+
+B = 1.8 Sen(-67.2) = 1.66
+
+R = 698 ohm, Xc = 1.66 kohm
+
+(d)
+
+A = 789 Cos(-45) = 558
+
+B = 789 Sen(-45) = 558
+
+R = 558 ohm, Xc = 559 ohm
+
+Análisis de circuitos RC en serie
+
+27. Calcule la corriente total en cada circuito de la figura y exprésela en forma polar.
+
+![image](https://user-images.githubusercontent.com/94182617/154718207-690c9a06-1bf0-49ee-87c9-8ac26b3cbc19.png)
+
+Xc = 1/2pi*f*C
+
+I = V/Z
+
+Z = raíz(R^2 + Xc^2) ∠ -tan-1 (Xc/R)
+
+(a)
+
+Xc1 = 1/2pi(100)(0.01 * 10^-6) = -159.15 kohm
+
+Xc2 = 1/2pi(100)(0.022 * 10^-6) = -72.34 kohm
+
+Z = R1 + R2 + Xc1 + Xc2 = 100 + 47 + -j159.15 – 72.34 = 147kohm – j231.49kohm
+
+Z = raíz(147^2 + 231.49^2) ∠ -tan-1 (231.49/147) = 274.22 ∠ -57.6°
+
+I = V/Z = (50 ∠ 0)/( 274.22 ∠ -57.6) = 183 ∠ 57.5° uA
+
+(b)
+
+Xc1 = Xc2 = 1/2pi(20000)(470 * 10^-12) = -16.93 kohm
+
+Z = R + Xc1/2 = 10kohm – j8.465kohm
+
+Z = raíz(10^2 + 8.465^2) ∠ -tan-1 (-8.465/10) = 13.1 ∠ -40.2°kohm
+
+I = V/Z = (8 ∠ 0)/( 13.1 ∠ -40.2) = 611∠40.3° uA
+
+(c)
+
+Xc1 = 1/2pi(100000)(1000 * 10^-12) = -1591.55 ohm
+
+Xc2 = 1/2pi(100000)(0.001 * 10^-6) = -1591.55 ohm
+
+Xc1 = 1/2pi(10000)(0.0022 * 10^-6) = -723.43 ohm
+
+Z = R1 + Xc1 +Xc2\\Xc3 + R2\\R3 
+
+Z = 680 –j1591.55 + (-j1591.55)( -j723.43)/ (-j1591.55 -j723.43) + (1200)(1800)/(1200+1800)
+
+Z = 1.4kohm –j2kohm
+
+Z = raíz(1.4^2 + 2^2) ∠ -tan-1 (-2/1.4) = 2.44 ∠ -55°kohm
+
+I = V/Z = (5 ∠ 20)/( 2.44 ∠ 1.4) = 1.98– 76.2° mA
+
+ 
+29. Repita el problema 28 para el circuito de la figura, con f =5 kHz.
+
+Determine el ángulo de fase entre el voltaje aplicado y la corriente
+
+![image](https://user-images.githubusercontent.com/94182617/154718346-b401fdd7-ab52-401e-ae34-91247ca89f81.png)
+
+Xc = 1/2pi*f*C
+
+I = V/Z
+
+Z = raíz(R^2 + Xc^2) ∠ -tan-1 (Xc/R)
+
+Xc = 1/2pi*5*0.0022 = 14.5
+
+Angulo de fase = -tan-1 (14.5/56) = -14.5 
+
+
+31. Para el circuito de la figura, determine lo siguiente en forma polar: 
+
+(a) Z 	(b)Itot	 (c)Vr	 (d) Vc
+
+![image](https://user-images.githubusercontent.com/94182617/154718431-894144ee-f95e-498d-a9e8-a61eb3b4a21d.png)
+
+(a)
+
+Xc = 1/2pi*20*100*10^-6 = 79.58ohm
+
+Z = raíz(56^2 + 79.58^2) ∠ -tan-1 (79.58/56) = 97.3∠ -54.9° ohm
+
+(b)
+
+Itot = Vs/Z = (10∠ -0°)/(97.3∠ -54.9°) = 103∠54.9° mA
+
+(c)
+
+Vr = Itot * R = (103∠54.9°)*56 = 5.768∠54.9°
+
+(d)
+
+Vc = Itot * Xc ∠ -90 = 0.103∠54.9° * 79.58 ∠ -90 = 8.18∠ -35.1° V
+
+
+33. Determine el o los elementos dispuestos en serie que deben ser instalados en el bloque de la figura para satisfacer los siguientes requerimientos: Preal = 400 W y un factor de potencia de adelanto (Itot aparece adelantada con respecto a Vs).
+
+![image](https://user-images.githubusercontent.com/94182617/154718555-639d23be-9ce6-4ba6-9aa6-6bc6edba3cf3.png)
+
+Rx = Preal/I^2 – R1
+
+Rx = 400/5^2 – 4 = 12ohm
+
+PF = Preal/V*I
+
+PF = 400/100*5 = 0.8
+
+t = -Cos^-1(PF) = -Cos^-1(0.8) = -36.87
+
+Xcx = -(R1 + Rx)Tan(-36.87) = 12ohm
+
+Cx = 1/2pi(1000)(12) = 13.26uF
+
+
+35. El circuito de retraso de la figura también actúa como filtro pasabajas. Trace una curva de respuesta para este circuito marcando el voltaje de salida contra la frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz.
+
+![image](https://user-images.githubusercontent.com/94182617/154718632-1ff1b0bb-7865-4dd2-8159-088964fec422.png)
+
+![image](https://user-images.githubusercontent.com/94182617/154718644-25aa3b1f-9fa7-4781-8f58-46237139f6d2.png)
+
+![image](https://user-images.githubusercontent.com/94182617/154718660-ac2f8802-9663-4e84-9903-1e63471c11e1.png)
+
+![image](https://user-images.githubusercontent.com/94182617/154718691-78bb6df5-09c1-41c5-b0f7-2fca0cfb644c.png)
+
+![image](https://user-images.githubusercontent.com/94182617/154718707-6c0050b1-7e7e-49f1-9999-6e336ad72c83.png)
+
+37. Trace la curva de respuesta a la frecuencia de amplitud de salida para el circuito de adelanto de la figura con un intervalo de frecuencia de 0 Hz a 10 kHz en incrementos de 1kHz.
+
+![image](https://user-images.githubusercontent.com/94182617/154718751-ec4fd53a-2ae0-419e-bdf7-99b6e86f6787.png)
+
+![image](https://user-images.githubusercontent.com/94182617/154718773-ad52cd45-a2f1-4a01-9b22-87c6bb1b3ea1.png)
+
+![image](https://user-images.githubusercontent.com/94182617/154718793-e788aaf5-dd04-4bcc-8552-50116e8e58c8.png)
+
+![image](https://user-images.githubusercontent.com/94182617/154718815-6e4bf505-06e5-47a5-a25a-97b7dc6b7d1e.png)
 
 39.Repita el problema 38 para el circuito de la figura 15-92. Vs = 10V rms y f = 1 kHz.
 
