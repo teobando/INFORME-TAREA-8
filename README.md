@@ -74,6 +74,10 @@ a) Z  b)   c) IR   d) Itot   e) ɵ
 53.Determine el valor de C2 en la figura 15-102 cuando VA = VB. I u VR1 VR2 VR3 
 
 ![image](https://user-images.githubusercontent.com/94098157/154611457-f442007f-7893-4e77-834f-b7fa836c7c11.png)
+![image](https://user-images.githubusercontent.com/94098157/154626682-85d8084f-7ce6-40ce-95f0-187122295453.png)
+
+![image](https://user-images.githubusercontent.com/94098157/154626737-842cf0ee-b099-464a-964b-a3b54496a05d.png)
+![image](https://user-images.githubusercontent.com/94098157/154626783-6a217e73-673e-48fe-b8c5-11f3c77ad15c.png)
 
 55.Encuentre la corriente a través de cada componente en la figura 15-103.
 
